@@ -1,2 +1,2 @@
-# Data-Structure---Algorithms
+# Data-Structure-and-Algorithms
 All my dsa lineup 
